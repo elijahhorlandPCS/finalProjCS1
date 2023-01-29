@@ -1,0 +1,71 @@
+body {
+    font-family: "Roboto Mono";
+    font-size: 30px;
+    /*text-shadow: 4px 4px 4px rgb(0, 0, 0); */
+
+    background-color: #f1faee;
+}
+ .maintext{
+
+  width: 60%;
+
+ }
+
+ .maindiv{
+  width: 75%;
+
+
+ }
+
+  .container2{
+    margin-top: 100px;
+    margin: 0 auto;
+
+  }
+
+  .card{
+    background-color: #1d3557;
+    color: white;
+
+  }
+  .navbar{
+    
+    background-color: #e63946;
+    color: #f1faee;
+
+  }
+  .nav-link{
+    background-color: #e63946;
+    color: #f1faee;
+
+  }
+  .whitetext{
+    background-color: #e63946;
+    color: #f1faee;
+
+  }
+
+  .edge{
+
+    margin-left: 100px;
+
+  }  
+  
+  .edgeB{
+
+    margin-bottom: 10px;
+
+  }
+
+  .edgeT{
+
+    margin-top: 10px;
+
+  }
+
+  .btn{
+    
+    background-color: #457b9d;
+    color: white;
+
+  }
